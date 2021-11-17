@@ -5,6 +5,24 @@ This repository provides data and code for [*"CrowdSpeech and Vox DIY: Benchmark
 The collected transcriptions stored in `data/*-crowd.tsv`, ground-truth transcriptions stored in `data/*-gt.txt`. We also provide a code for the annotation process 
 and speech synthesis in `annotation` and `speech_sythesis` folders, respectively.
 
+# Citation
+
+* Pavlichenko N., Stelmakh I., and Ustalov D. [CrowdSpeech and Vox DIY: Benchmark Dataset for Crowdsourced Audio Transcription](https://openreview.net/forum?id=3_hgF1NAXU7). *Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks.* 2021. [arXiv: 2107.01091 [cs.SD]](https://arxiv.org/abs/2107.01091).
+
+```(bibtex)
+@inproceedings{CrowdSpeech,
+  author    = {Pavlichenko, Nikita and Stelmakh, Ivan and Ustalov, Dmitry},
+  title     = {{CrowdSpeech and Vox~DIY: Benchmark Dataset for Crowdsourced Audio Transcription}},
+  year      = {2021},
+  booktitle = {Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks},
+  eprint    = {2107.01091},
+  eprinttype = {arxiv},
+  eprintclass = {cs.SD},
+  url       = {https://openreview.net/forum?id=3_hgF1NAXU7},
+  language  = {english},
+  pubstate  = {forthcoming},
+}
+```
 
 # Data
 

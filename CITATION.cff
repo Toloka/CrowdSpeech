@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the article from preferred-citation.
+authors:
+- family-names: "Pavlichenko"
+  given-names: "Nikita"
+  orcid: "https://orcid.org/0000-0002-7330-393X"
+- family-names: "Stelmakh"
+  given-names: "Ivan"
+- family-names: "Ustalov"
+  given-names: "Dmitry"
+  orcid: "https://orcid.org/0000-0002-9979-2188"
+title: Crowd-Kit
+license: Apache-2.0
+repository-code: https://github.com/Toloka/CrowdSpeech
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Pavlichenko"
+    given-names: "Nikita"
+  - family-names: "Stelmakh"
+    given-names: "Ivan"
+  - family-names: "Ustalov"
+    given-names: "Dmitry"
+  title: "CrowdSpeech and Vox DIY: Benchmark Dataset for Crowdsourced Audio Transcription"
+  year: 2021
+  collection-title: "Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks"
+  conference:
+    name: "Thirty-fifth Conference on Neural Information Processing Systems"
+    date-start: 2021-12-06
+    date-end: 2021-12-14
+  url: "http://openreview.net/forum?id=3_hgF1NAXU7"
+  identifiers:
+  - type: other
+    value: "arXiv:2107.01091"
+    description: The ArXiv preprint of the paper
